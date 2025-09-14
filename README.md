@@ -2,7 +2,7 @@
 
 # FLOWCHART
 
-![alt text](https://github.com/auliasheva/Sistem-Manajemen-Daftar-Karyawan-Mie-Gacoan-/blob/main/Flowchart%20minpro.jpg?raw=true)
+![alt text]([https://github.com/auliasheva/Sistem-Manajemen-Daftar-Karyawan-Mie-Gacoan-/blob/main/Flowchart%20minpro.jpg](https://github.com/auliasheva/Sistem-Manajemen-Daftar-Karyawan-Mie-Gacoan-/blob/main/Flowchart%20minpro1%20(1).jpg)?raw=true)
 
 # OUTPUT
 ![alt text](https://github.com/auliasheva/Sistem-Manajemen-Daftar-Karyawan-Mie-Gacoan-/blob/main/pilihan%201.png?raw=true)
@@ -33,3 +33,8 @@ Output menu untuk menghapus data karyawan
 
 
 Menu keluar dari program
+
+
+![alt text](https://github.com/auliasheva/Sistem-Manajemen-Daftar-Karyawan-Mie-Gacoan-/blob/main/selain%20dari%20pilihan%201-5.png?raw=true)
+
+Selain dari 1-5 akan muncul keterangan tidak valid
