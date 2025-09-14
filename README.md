@@ -29,4 +29,4 @@
 
 ![alt text](https://github.com/auliasheva/Sistem-Manajemen-Daftar-Karyawan-Mie-Gacoan-/blob/main/selain%20dari%20pilihan%201-5.png?raw=true)
 
-# SEKIAN DARI SAYA, TERIMAKASIH
+# SEKIAN DAN TERIMAKASIH
