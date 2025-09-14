@@ -1,7 +1,7 @@
 # SISTEM MANAJEMEN DATA KARYAWAN MIE GACOAN
 
 # FLOWCHART
-** Flowchar tentang sistem manjemen data karyawan mie gacoan
+**Flowchar tentang sistem manjemen data karyawan mie gacoan
 
 ![alt text](https://github.com/auliasheva/Sistem-Manajemen-Daftar-Karyawan-Mie-Gacoan-/blob/main/Flowchart%20minpro1%20(1).jpg?raw=true)
 
